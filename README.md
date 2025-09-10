@@ -1,4 +1,5 @@
 --- Password Manager – Secure Desktop Application ---
+
 A secure desktop application for storing and managing passwords. I built this project to sharpen my skills with Python and practice using encrypting, hashing and authentication in an application.
 
 Features:
