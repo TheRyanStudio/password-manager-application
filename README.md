@@ -23,3 +23,6 @@ A secure desktop application for storing and managing passwords. I built this pr
 - SQLite (local database)
 - cryptography (Fernet encryption)
 - argon2-cffi (password hashing)
+
+```bash
+pip install PySide6 cryptography argon2-cffi
